@@ -1,0 +1,1 @@
+-[中文帮助文档链接](http://ahkcn.sourceforge.net/docs/Tutorial.htm)
